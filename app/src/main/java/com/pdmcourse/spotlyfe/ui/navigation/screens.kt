@@ -4,3 +4,4 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 object SavedPlacesScreenNavigation
+object FormNavigation
